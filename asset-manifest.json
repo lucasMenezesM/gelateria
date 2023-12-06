@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gelateria/static/css/main.ffb7584c.css",
+    "main.js": "/gelateria/static/js/main.30c897c2.js",
+    "static/js/787.3ed74103.chunk.js": "/gelateria/static/js/787.3ed74103.chunk.js",
+    "index.html": "/gelateria/index.html",
+    "main.ffb7584c.css.map": "/gelateria/static/css/main.ffb7584c.css.map",
+    "main.30c897c2.js.map": "/gelateria/static/js/main.30c897c2.js.map",
+    "787.3ed74103.chunk.js.map": "/gelateria/static/js/787.3ed74103.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffb7584c.css",
+    "static/js/main.30c897c2.js"
+  ]
+}
