@@ -66,13 +66,13 @@ function Header() {
         </div>
 
         <nav>
-          <NavLink className={"header-link"} to="/">
+          <NavLink className={"header-link"} to="/gelateria/">
             Home
           </NavLink>
-          <NavLink className={"header-link"} to="/sabores">
+          <NavLink className={"header-link"} to="/gelateria/sabores">
             Sabores
           </NavLink>
-          <NavLink className={"header-link"} to="/sobre">
+          <NavLink className={"header-link"} to="/gelateria/sobre">
             Sobre
           </NavLink>
         </nav>
