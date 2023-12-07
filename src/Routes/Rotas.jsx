@@ -9,9 +9,9 @@ function Router() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route exact path="/" element={<Home />} />
-        <Route path="/sabores" element={<Sabores />} />
-        <Route path="/sobre" element={<Sobre />} />
+        <Route exact path="/gelateria/" element={<Home />} />
+        <Route path="/gelateria/sabores" element={<Sabores />} />
+        <Route path="/gelateria/sobre" element={<Sobre />} />
       </Routes>
     </BrowserRouter>
   );
